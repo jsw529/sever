@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-multipart
+google-cloud-texttospeech
+python-pptx
